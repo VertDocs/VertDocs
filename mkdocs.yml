@@ -3,7 +3,7 @@ site_name: "VertDocs"
 
 site_description: 'Vertcoin Documentation'
 site_url: 'http://docs.vertcoin.org'
-repo_url: 'https://github.com/Bryangoodson/VertDocs'
+repo_url: 'https://github.com/VertDocs/VertDocs'
 
 theme:
   name: 'material'
@@ -24,11 +24,11 @@ pages:
         - NVidia Mining: Mining/Nvidia-Mining.md
         - AMD Mining: Mining/AMD-Mining.md
     - Full Nodes:
-        - Raspberry Pi 3 B/B+: FullNodes/raspberry-pi.md
-    - Buying Vertcoin:
-        - How to buy Vertcoin: BuyingVertcoin/How-to-buy-Vertcoin.md
+        - Raspberry Pi 4: FullNodes/raspberry-pi.md
+    - Trading Vertcoin:
+        - How to trade Vertcoin: TradingVertcoin/Where-to-trade-Vertcoin.md
     - Contributing:
-        - Open bounties: Contributing/Bounties.md
+        - How to contribute: Contributing/Contributing.md
 
    
 extra_css:
@@ -43,14 +43,10 @@ extra:
       link: 'https://twitter.com/vertcoin'
     - type: 'reddit'
       link: 'https://www.reddit.com/r/vertcoin/'
-    - type: 'linkedin'
-      link: 'https://www.linkedin.com/company/vertcoincore/'
     - type: 'youtube'
       link: 'https://www.youtube.com/channel/UC7lBpTciARdSuRCQlFSe7Hw'
     - type: 'discord'
       link: 'https://discord.gg/vertcoin'
-    - type: 'medium'
-      link: 'https://medium.com/vertcoin-blog'
       
    
 copyright: 'Copyright &copy; 2018-present Vertcoin'
